@@ -8,9 +8,11 @@ different 'pixels' of the identicon.
 
 ## How to Use
 
+```
 $ python identicon.py identicon.py
 $ cat some-file | python identicon.py
 $ hostname -f | python identicon.py
+```
 
 ## Examples
 
